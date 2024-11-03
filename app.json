@@ -25,7 +25,7 @@
       "value": "."
     },
     "SESSION_ID": {
-      "description": "session id",
+      "description": "session id"levanter_45839c05c57964e3d8a334ae584bca0b5",
       "required": true,
       "value": ""
     },
